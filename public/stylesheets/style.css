@@ -1,8 +1,19 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align:center;
+  font: 14px "HelveticaNeue-CondensedBold", Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+h2 {
+  margin-top:50px;
+  color:red;
+}
+
+h2 a,
+h2 a:hover,
+h2 a:visited {
+  color:limegreen;
 }

@@ -1,6 +1,8 @@
 body {
   text-align:center;
   font: 14px "HelveticaNeue-CondensedBold", Arial, sans-serif;
+  margin-top:50px;
+  margin-bottom:100px;
 }
 
 a {
